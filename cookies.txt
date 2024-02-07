@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+blueprint-trades.com	TRUE	/	FALSE	1999999999	PHPSESSID	fe07060228b5559b308b02a3586c843a
+

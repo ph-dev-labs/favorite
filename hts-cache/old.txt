@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:11:08	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2016%20Jan%202024%2020:11:02%20GMT	http://blueprint-trades.com/robots.txt		(from )
+20:11:09	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2016%20Jan%202024%2020:11:03%20GMT	http://blueprint-trades.com/	C:/My%20Web%20Sites/favor-site/blueprint-trades.com/index.html	(from )
